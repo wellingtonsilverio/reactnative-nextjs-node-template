@@ -1,12 +1,17 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "jest",
     "start": "node server.js"
   },
   "author": "Wellington Silverio",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
 }
