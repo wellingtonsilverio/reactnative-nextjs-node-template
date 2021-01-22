@@ -6,6 +6,13 @@ This project create a React WebApp and Node Server with best libs and practices
 
 ### Backend
 
+- express
+- mongoose
+- nodemon
+
 ### Frontend
+
+- react
+- nextjs
 
 ## Practices
