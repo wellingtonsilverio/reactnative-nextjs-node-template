@@ -14,5 +14,12 @@ This project create a React WebApp and Node Server with best libs and practices
 
 - react
 - nextjs
+- nextAuth
+
+### Android/IOS
 
 ## Practices
+
+### VSCODE Config
+
+### ESLint and Prettier

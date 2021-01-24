@@ -1,10 +1,12 @@
-import '../styles/globals.css'
-import Auth from './auth'
+import '../styles/globals.css';
+import Auth from './auth';
 
 function MyApp({ Component, pageProps }) {
-  return <Auth>
-    <Component {...pageProps} />
-  </Auth>
+    return (
+        <Auth>
+            <Component {...pageProps} />
+        </Auth>
+    );
 }
 
-export default MyApp
+export default MyApp;
